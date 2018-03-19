@@ -114,5 +114,5 @@ More info @ [bradmax.com][bradmax]
 [git-player-rxjs-example]: https://github.com/bradmax-com/bradmax-player-rxjs-example
 [git-player-js]: https://github.com/bradmax-com/bradmax-player-js
 
-[bradmaxLogo]: ./assets/md/bradmax.svg
-[angularJsLogo]: ./assets/md/ag.svg
+[bradmaxLogo]: https://raw.githubusercontent.com/bradmax-com/bradmax-player-ag/master/assets/md/bradmax.svg?sanitize=true
+[angularJsLogo]: https://raw.githubusercontent.com/bradmax-com/bradmax-player-ag/master/assets/md/ag.svg?sanitize=true
