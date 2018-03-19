@@ -1,6 +1,5 @@
 ___
-![Bradmax][bradmaxLogo]
-![AngularJs][angularJsLogo]
+![Bradmax][bradmaxLogo]![AngularJs][angularJsLogo]
 ___
 Repository contains [bradmax player][bradmax] AngularJs modules.
 ___
