@@ -26,7 +26,7 @@ angular
   'bradmax.player.ag.zebra',   // if you want bradmax player with 'Zebra' skin.
  ])
 ```
-### If bradmax player configuration is set as angular constant named `BRADMAX_PLAYER_CONFIGURATION`:
+#### If bradmax player configuration is set as angular constant named `BRADMAX_PLAYER_CONFIGURATION`:
 ```
 angular
  .module('myApp', [...])
