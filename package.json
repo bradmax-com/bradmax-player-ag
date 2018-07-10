@@ -1,7 +1,7 @@
 {
 	"name": "@bradmax/player-ag",
 	"description": "Bradmax Player AngularJs module.",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"author": "Piotr Długołęcki <piotr.dlugolecki@bradmax.pl>",
 	"license": "MIT",
 	"keywords": [
@@ -17,6 +17,6 @@
 	"homepage": "https://bradmax.com",
 	"main": "./index.js",
 	"dependencies": {
-		"@bradmax/player": "^0.1.1"
+		"@bradmax/player": "^0.1.2"
 	}
 }
